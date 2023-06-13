@@ -1,2 +1,3 @@
 # foody
-Yemek Uygulaması
+Günün Menüsü
+https://github.com/marulyiyenpanda/GununMenusu-Proje
